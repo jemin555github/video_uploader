@@ -22,5 +22,5 @@ This is a Django REST Framework project that allows users to register, log in, u
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/jemin555github/video_uploader.git
    cd video_uploader
